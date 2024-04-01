@@ -28,10 +28,10 @@ Desenvolvido um mini Blog, tendo como principal objetivo praticar meus conhecime
 ## 3. Resultado do Projeto📝
 
 ###### Template
-![Template](./src/img/Prototipo.png)
+![Template](./img/Prototipo.png)
 
 ###### Resultado Final
-![Result](./src/img/Result%20Final.png)
+![Result](./img/Result%20Final.png)
 
 
 ## 4. Tecnologias Utilizadas✅
