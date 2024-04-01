@@ -18,7 +18,7 @@ Desenvolvido por:
 
 ## 1. Resumo do Projeto🤩
 
-Desenvolvido um mini Blog, tendo como principal objetivo praticar meus conhecimentos em HTML e CSS. Site de referência do template: [Dribbble](https://dribbble.com/shots/15827768-Bloganity-Website-for-Blogging).
+Desenvolvido um mini Blog, tendo como principal objetivo praticar meus conhecimentos em HTML e CSS. Site de referência do template: [Dribbble](https://dribbble.com/shots/15827768-Bloganity-Website-for-Blogging). Para acessar o projeto clique no [Link]()
 
 ## 2. Objetivos de aprendizagem✅
 
